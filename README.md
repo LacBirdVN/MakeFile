@@ -140,7 +140,7 @@ hoặc
 CC = gcc
 
 # ===== Flags =====
-CFLAGS = -Wall -Wextra -Iinclude
+CFLAGS = -Iinclude
 
 # ===== Folders =====
 SRC_DIR = src
